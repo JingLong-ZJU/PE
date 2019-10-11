@@ -3,5 +3,5 @@ printf("anything");
 }
 //by A
 void funB{
-
+printf("nothing");
 }
