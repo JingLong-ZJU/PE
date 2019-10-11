@@ -1,5 +1,5 @@
 void funA{
-printf("nothing");
+printf("anything");
 }
 //by A
 void funB{
